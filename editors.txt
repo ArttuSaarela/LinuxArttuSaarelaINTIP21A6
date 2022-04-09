@@ -1,0 +1,20 @@
+Vim, Emacs vs Nano
+https://github.com/ArttuSaarela/LinuxArttuSaarelaINTIP21A6
+Arttu Saarela INTIP21A6
+
+1. Minulla ei ollut minkäänlaista kokemusta mistään vertailussa olevista teksti editoreita tai vastaavanlaisista, joten alkuu oli hankaluuksia editoreiden kanssa. Mielestäni Nano oli helpoin käyttää ja vim editorin
+kanssa minulla oli suurimmat ongelmat toteuttaa vertailua. 
+
+2. Käyttäjäliittymiä vertaillessa nano ja emacs olivat erittäin saman näköiset, mutta vim editori oli huomattavasti erinäköisempi ja väritys vim editorissa oli mielestäni hieman sekava ja siitä oli välillä
+vaikea lukea tekstiä.
+
+3. Ominaisuuksiin en missään editorissa päässyt oikein jyvälle, miten ne toimivat. Ainoastaan nano ominaisuuksista ymmärsin jotain, sillä nanossa on hyvin laitettu alakulmaan pienet ohjeistukset ominaisuuksista.
+
+4. Mielestäni nopeimmin oppi Emacs ja Nano, niiden yhteneväisyyksien takia.
+
+5. Suurimmat ongelman minulla oli kaikkien editoreiden kanssa, se että olen aina tottunut käyttämään editoreita missä on selkeä käyttöliittymä ja mahdollisuus hiirellä tehdä asioita. 
+
+6. Jos tarvitsisi keksiä projekti, missä pitäisi käyttää jotakin vertailussa olevaa editoria, niin projekti olisi todennäköisesti jonkinlainen projekti Raspberry pi kanssa. Raspberryä olen joskus käyttänyt ja 
+koen, että siihen tälläinen editori toimisi hyvin. Jos projektissa pitäisi tehdä jotakin isompaa projektia, niin todennäköisesti valitsisin esimerkiksi visual studion tai visual studio coden, näiden editoreiden sijasta
+
+Minun mielestä vertailun voitti Nano editori. Editori oli mielestäni näistä helppokäyttöisin ja siihen totuin nopeiten.
